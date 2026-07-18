@@ -15,42 +15,15 @@ I am a challenge-driven and detail-oriented Frontend Developer with a strong foc
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/typescript" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
-      <br />React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/tailwindcss" width="48" height="48" alt="TailwindCSS" />
-      <br />Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/sass" width="48" height="48" alt="Sass" />
-      <br />Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/vite" width="48" height="48" alt="Vite" />
-      <br />Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux" />
-      <br />Linux
-    </td>
-  </tr>
-</table>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
