@@ -30,7 +30,7 @@ I am a challenge-driven and detail-oriented Frontend Developer with a strong foc
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malih99&show_icons=true&theme=tokyonight&hide_border=true" alt="Malihe's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malih99&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs,contrib" alt="Malihe's GitHub Stats" />
 </p>
 
 ---
