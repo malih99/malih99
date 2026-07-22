@@ -1,30 +1,29 @@
 # Hi there, I'm Malihe Asadi 👋
 
 ### Frontend Engineer & Tech Lead 🚀
-I am a challenge-driven and detail-oriented Frontend Developer with a strong focus on building scalable, maintainable web applications. Currently acting as a Frontend Team Lead, I specialize in bridging the gap between product requirements (MVPs) and robust software architecture by applying clean code principles, Object-Oriented Programming (OOP), and layered architectures.
+
+I am a challenge-driven and detail-oriented Frontend Engineer focusing on building scalable, performant web applications[cite: 1]. Currently acting as a Frontend Team Lead, I specialize in bridging the gap between product requirements (MVPs) and robust software architecture through clean code, Object-Oriented Design (OOP), and layered architectures[cite: 1].
 
 ---
 
-### 💻 Core Expertise & Architectural Mindset
-* **Architectural Patterns:** Layered Architecture, Clean Code, Code Reusability, and OOP.
-* **Component Design & UI/UX:** Metric-driven modularity using **Atomic Design** principles, supplemented with **TailwindCSS**, **Radix UI**, **Shadcn/UI**, and **Lucide Icons**.
-* **State & Asynchronous Data Flow:** Expert in managing complex UI states (**Zustand**, **Context API**, **Redux**) and handling real-time data via **WebSockets** and **REST APIs (Axios)**.
-* **Contract-Driven Development:** Decoupled frontend layer utilizing **OpenAPI/Swagger** auto-generated models to ensure seamless backend synchronization and minimal breaking changes.
-* **Deployment & Systems:** Experience in configuring and deploying frontend outputs on web servers like **Windows Server (IIS 10)** and working with **Linux**.
+### 💡 Core Capabilities & Architecture
+
+- **Architectural Excellence:** Layered Architecture, Clean Code, Modular Component Design using **Atomic Design** principles, and Fuzz Orchestration[cite: 1].
+- **State & Data Handling:** Asynchronous data streaming via **WebSockets** and **REST APIs (Axios)**, combined with predictable UI state management (**Zustand**, **Redux**, **Context API**)[cite: 1].
+- **Contract-Driven Frontend:** Seamless API integration using **OpenAPI/Swagger** generated models to decouple presentation logic from backend changes[cite: 1].
+- **Product & UI/UX Mindset:** Driving MVPs from technical documentation to user-centric UI/UX solutions with high reusability[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Core** | JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS[cite: 1] |
+| **Frameworks & UI** | React.js, Tailwind CSS, Shadcn/UI, Radix UI, Lucide Icons[cite: 1] |
+| **State & Data** | Redux, Zustand, REST API, WebSockets, Axios, OpenAPI / Swagger[cite: 1] |
+| **Architecture & Patterns** | Layered Architecture, OOP, Atomic Design, MVP Development[cite: 1] |
+| **Tooling & Server** | Vite, Git, Linux, Windows Server (IIS 10)[cite: 1] |
 
 ---
 
@@ -37,7 +36,8 @@ I am a challenge-driven and detail-oriented Frontend Developer with a strong foc
 ---
 
 ### 🤝 Connect with Me
-* **Email:** malihasadi78@gmail.com
-* **LinkedIn:** [linkedin.com/in/malihe-asadi-a151b0289](https://linkedin.com/in/malihe-asadi-a151b0289)
 
-> *"Technical honesty, effective team alignment under high-pressure deadlines, and a relentless focus on end-user satisfaction are my core professional values."*
+- 📧 **Email:** [malihasadi78@gmail.com](mailto:malihasadi78@gmail.com)[cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/malihe-asadi-a151b0289](https://linkedin.com/in/malihe-asadi-a151b0289)[cite: 1]
+
+> *"Honesty in technical implementation and strict alignment with end-user satisfaction are my primary professional principles."*[cite: 1]
