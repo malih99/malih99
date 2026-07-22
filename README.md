@@ -54,12 +54,12 @@ Rather than focusing only on implementation, I pay close attention to understand
 
 ## GitHub Stats
 
-<p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=malih99&theme=github-dark&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malih99&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malih99&layout=compact&hide_border=true&theme=transparent"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malih99&theme=github-dark&hide_border=true" />
 </p>
 
 ---
