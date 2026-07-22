@@ -1,43 +1,74 @@
-# Hi there, I'm Malihe Asadi 👋
+# Hi, I'm Malihe Asadi 👋
 
-### Frontend Engineer & Tech Lead 🚀
+### Frontend Developer
 
-I am a challenge-driven and detail-oriented Frontend Engineer focusing on building scalable, performant web applications[cite: 1]. Currently acting as a Frontend Team Lead, I specialize in bridging the gap between product requirements (MVPs) and robust software architecture through clean code, Object-Oriented Design (OOP), and layered architectures[cite: 1].
+I build scalable React applications with a strong focus on software architecture, maintainability, and user-centered product development.
 
----
-
-### 💡 Core Capabilities & Architecture
-
-- **Architectural Excellence:** Layered Architecture, Clean Code, Modular Component Design using **Atomic Design** principles, and Fuzz Orchestration[cite: 1].
-- **State & Data Handling:** Asynchronous data streaming via **WebSockets** and **REST APIs (Axios)**, combined with predictable UI state management (**Zustand**, **Redux**, **Context API**)[cite: 1].
-- **Contract-Driven Frontend:** Seamless API integration using **OpenAPI/Swagger** generated models to decouple presentation logic from backend changes[cite: 1].
-- **Product & UI/UX Mindset:** Driving MVPs from technical documentation to user-centric UI/UX solutions with high reusability[cite: 1].
+Currently, I work on enterprise products where I translate product requirements into maintainable frontend solutions, collaborating closely with backend engineers through API contracts and technical documentation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## About
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Core** | JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS[cite: 1] |
-| **Frameworks & UI** | React.js, Tailwind CSS, Shadcn/UI, Radix UI, Lucide Icons[cite: 1] |
-| **State & Data** | Redux, Zustand, REST API, WebSockets, Axios, OpenAPI / Swagger[cite: 1] |
-| **Architecture & Patterns** | Layered Architecture, OOP, Atomic Design, MVP Development[cite: 1] |
-| **Tooling & Server** | Vite, Git, Linux, Windows Server (IIS 10)[cite: 1] |
+I enjoy designing frontend systems that remain easy to maintain as products grow. My development approach emphasizes clean architecture, reusable components, predictable state management, and continuous refactoring to improve long-term scalability.
+
+Rather than focusing only on implementation, I pay close attention to understanding business requirements, technical documentation, and end-user needs before writing code.
 
 ---
 
-### 📈 GitHub Stats
+## Engineering Focus
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malih99&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs,contrib" alt="Malihe's GitHub Stats" />
+- Frontend Architecture
+- React & TypeScript
+- Layered Architecture
+- Atomic Design
+- OpenAPI / Swagger Integration
+- REST APIs & WebSocket
+- State Management
+- Clean Code
+- Performance Optimization
+- Reusable UI Systems
+- Product-driven Development
+
+---
+
+## Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,tailwind,sass,git,linux" />
+
+</p>
+
+**Also working with**
+
+- Zustand
+- React Query
+- Radix UI
+- shadcn/ui
+- Axios
+- OpenAPI Generator
+- WebSocket
+
+---
+
+## GitHub Stats
+
+<p>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malih99&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malih99&layout=compact&hide_border=true&theme=transparent"/>
+
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## Connect
 
-- 📧 **Email:** [malihasadi78@gmail.com](mailto:malihasadi78@gmail.com)[cite: 1]
-- 💼 **LinkedIn:** [linkedin.com/in/malihe-asadi-a151b0289](https://linkedin.com/in/malihe-asadi-a151b0289)[cite: 1]
+- 📧 **Email:** malihasadi78@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/malihe-asadi-a151b0289
 
-> *"Honesty in technical implementation and strict alignment with end-user satisfaction are my primary professional principles."*[cite: 1]
+---
+
+> *I believe successful frontend engineering is achieved by combining maintainable architecture, clear technical communication, and continuous focus on delivering the best experience for end users.*
