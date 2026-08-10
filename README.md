@@ -1,4 +1,4 @@
-# Hi, I'm Malihe Asadi 👋
+# Hi, I'm Malih Asadi 👋
 
 ### Frontend Developer
 
