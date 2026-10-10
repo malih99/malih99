@@ -1,71 +1,160 @@
-# Hi, I'm Malih Asadi 👋
+# Malih Asadi
+### Frontend Engineer · React & TypeScript
 
-**Frontend Engineer | React & TypeScript**
+**Engineering interfaces for evolving products.**
 
-I build frontend applications from technical requirements, API specifications, and evolving product needs, with a focus on maintainability, modular architecture, and predictable application behavior.
+I work at the intersection of product requirements, backend contracts, and frontend architecture. My focus is building React applications that remain understandable, adaptable, and maintainable as product complexity grows.
 
-Currently, I'm working on a Fuzzer Orchestrator product, developing frontend features incrementally toward an MVP and collaborating closely with backend engineers and the Product Owner to translate technical requirements into practical solutions.
+Currently developing a **Fuzzer Orchestrator** from the ground up, translating technical documentation and evolving requirements into incremental frontend capabilities, from initial implementation toward an MVP.
 
-## Engineering Focus
+[LinkedIn](https://www.linkedin.com/in/malih-asadi-a151b0289/) · [Email](mailto:maliheasadi99@gmail.com)
 
-- **Frontend Development:** React, TypeScript, JavaScript (ES6+), and Vite
-- **Application Architecture:** Modular and layered frontend structures, reusable components, and separation of concerns
-- **State Management:** Zustand, React Query, and managing complex application states
-- **API Integration:** REST APIs, WebSocket data streams, and OpenAPI-generated models
-- **UI Development:** Tailwind CSS, Radix UI, shadcn/ui, and React Flow
-- **Maintainability:** Refactoring, clear technical boundaries, and reducing the impact of backend changes on frontend implementation
+---
 
-## Professional Experience
+## 01 / Engineering Perspective
+
+I approach frontend development as a system-design problem, not just a UI implementation task.
+
+A feature rarely exists in isolation. It depends on product decisions, API contracts, application state, data flow, and the constraints of the surrounding system.
+
+My work focuses on making those relationships explicit, so changes can be implemented without creating unnecessary coupling across the application.
+
+```mermaid
+flowchart TD
+    A["Product Requirements"] --> B["Technical Documentation"]
+    B --> C["API Contracts & Data Models"]
+    C --> D["Frontend Architecture"]
+    D --> E["Feature Implementation"]
+    E --> F["Integration & Validation"]
+    F --> G["Iterative Refinement"]
+    G -. "Feedback & New Requirements" .-> A
+
+    classDef input fill:#172033,stroke:#64748b,color:#f1f5f9
+    classDef engineering fill:#172e36,stroke:#4f9d91,color:#e0f2f1
+    classDef delivery fill:#30243f,stroke:#a78bfa,color:#f5f3ff
+
+    class A,B,C input
+    class D,E,F engineering
+    class G delivery
+```
+
+<sub>My working model: understand the system, define the boundaries, implement incrementally, and refine based on feedback.</sub>
+
+---
+
+## 02 / Selected Engineering Experience
 
 ### Fuzzer Orchestrator
+**Frontend Engineering · React · TypeScript**
 
-Working on the frontend development of a Fuzzer Orchestrator product from the ground up, based on technical documentation, backend APIs, and evolving product requirements.
+Developing the frontend of a product from the ground up, based on technical documentation, backend APIs, and evolving product requirements.
 
-My work includes:
+- Break down product requirements into implementation phases and MVP milestones.
+- Integrate REST APIs and work with WebSocket-based information streams.
+- Build interfaces around complex jobs, system information, and multiple application states.
+- Apply modular and layered structures to improve reuse and limit the impact of changes.
+- Integrate OpenAPI-generated models to align frontend data contracts with backend specifications.
+- Refactor application logic and state handling as technical requirements evolve.
+- Collaborate with backend engineers and the Product Owner throughout feature development.
 
-- Breaking down product requirements into incremental development phases and MVP milestones
-- Implementing API-driven features and handling real-time information through WebSocket streams
-- Developing interfaces around complex jobs, application states, and system information
-- Applying modular and layered structures to improve code reuse and maintainability
-- Integrating OpenAPI-generated models to keep frontend data contracts aligned with backend changes
-- Refactoring application logic and state handling as product requirements evolve
+#### Frontend / Backend Interaction
+
+```mermaid
+flowchart LR
+    subgraph Backend["Backend Services"]
+        API["REST API"]
+        WS["WebSocket Streams"]
+        SPEC["OpenAPI Specifications"]
+    end
+
+    subgraph Frontend["Frontend Application"]
+        CONTRACT["API Integration"]
+        DATA["Data & State Handling"]
+        UI["React Interfaces"]
+    end
+
+    API --> CONTRACT
+    WS --> DATA
+    SPEC -. "Generated Models" .-> CONTRACT
+    CONTRACT --> DATA
+    DATA --> UI
+
+    classDef backend fill:#172033,stroke:#64748b,color:#f1f5f9
+    classDef frontend fill:#172e36,stroke:#4f9d91,color:#e0f2f1
+
+    class API,WS,SPEC backend
+    class CONTRACT,DATA,UI frontend
+```
+
+<sub>Conceptual integration view based on the technologies and responsibilities described in my experience; not a complete production architecture diagram.</sub>
 
 ### Digital Menu
+**Frontend Development · JavaScript · Vite**
 
-Previously, I developed a web-based digital menu product for cafe and restaurant management from scratch, working with available APIs and product requirements rather than predefined UI/UX designs.
+Developed a web-based digital menu for cafe and restaurant management from scratch, working from product requirements and available APIs rather than predefined UI/UX designs.
 
-The implementation included product categorization, shopping cart management, automatic order calculations, REST API integration, and production deployment on Windows Server using IIS 10.
+- Defined the required interface layouts and user flows during development.
+- Implemented product categorization and shopping cart functionality.
+- Developed automatic order-total calculations and integrated REST APIs.
+- Built the production output and deployed the application on Windows Server using IIS 10.
 
-## Engineering Approach
+---
 
-I approach frontend development by understanding the system before implementing its features.
+## 03 / Technical Toolkit
 
-My workflow emphasizes:
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass |
+| Framework & Build | React, Vite |
+| UI Development | Tailwind CSS, Radix UI, shadcn/ui, Lucide Icons |
+| State & Server Data | Zustand, React Query |
+| API & Communication | REST APIs, WebSocket, OpenAPI, Swagger |
+| Visualization | React Flow |
+| Architecture | Layered Architecture, Modular Design, Atomic Design, OOP |
+| Deployment | Windows Server, IIS 10 |
 
-- Understanding technical documentation and API contracts
-- Translating product requirements into manageable development tasks
-- Separating application concerns to limit the impact of change
-- Building reusable components and maintainable application structures
-- Evaluating implementation choices against product needs and technical constraints
-- Improving the application through iterative development and refactoring
+---
 
-## Tech Stack
+## 04 / Engineering Principles
 
-**Languages & Core**
-`JavaScript (ES6+)` · `TypeScript` · `HTML5` · `CSS3` · `Sass`
+**Explicit boundaries**
 
-**Frameworks & UI**
-`React` · `Vite` · `Tailwind CSS` · `Radix UI` · `shadcn/ui`
+Keep responsibilities separated so that changes in one part of the application have a limited impact elsewhere.
 
-**State & Data**
-`Zustand` · `React Query` · `REST APIs` · `WebSocket` · `OpenAPI` · `Swagger`
+**Contract-driven integration**
 
-**Architecture & Tools**
-`Layered Architecture` · `Modular Design` · `Atomic Design` · `Git` · `React Flow`
+Understand API specifications and data models before building dependent UI behavior.
 
-**Deployment**
-`Windows Server` · `IIS 10`
+**Incremental delivery**
+
+Translate evolving requirements into manageable features and deliver toward a usable MVP.
+
+**Maintainability over unnecessary complexity**
+
+Prefer clear, reusable structures and refactor when the needs of the product justify it.
+
+**Technical communication**
+
+Use documentation, clear requirements, and collaboration to make implementation decisions easier to understand and maintain.
+
+---
+
+## 05 / Current Direction
+
+Continuously strengthening my frontend engineering foundations through practical work and technical study, with an emphasis on:
+
+- JavaScript and TypeScript fundamentals
+- React rendering, state management, and application behavior
+- Frontend architecture and separation of concerns
+- Debugging, testing, and code quality
+- Performance analysis and maintainable implementation patterns
+
+I value understanding why a solution works, what trade-offs it introduces, and how it will behave as the product evolves.
+
+---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/malih-asadi-a151b0289/)
+Interested in frontend engineering, React and TypeScript, application architecture, and collaborative software development.
+
+**[LinkedIn](https://www.linkedin.com/in/malih-asadi-a151b0289/)** · **[Email](mailto:maliheasadi99@gmail.com)**
